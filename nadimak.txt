@@ -1,0 +1,2 @@
+Najbolji deo ovog kursa je Cypress.
+Najgori deo ovog kursa je test cases.
