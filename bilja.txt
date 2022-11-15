@@ -1,0 +1,2 @@
+“Najbolji deo ovog kursa je ” i 
+“Najgori deo ovog kursa je____”
