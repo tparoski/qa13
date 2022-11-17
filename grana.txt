@@ -1,1 +1,3 @@
 Tijana Radosavljevic (usla sam u file i ne vidim nicije ime ovde)
+Vidim sada da sam se sinoc upisala na grani Master u file grana, umesto da sam se upisala 
+na grani grana1 u file grana. :)
