@@ -1,3 +1,11 @@
 Biljana
+<<<<<<< HEAD
 Petar2
 Petar3
+=======
+Petar
+Almir
+Tamara
+Ksenija
+NikolaAlmir
+>>>>>>> ddc99151537d5f294c3c2cb71bf488c0c4b71574
